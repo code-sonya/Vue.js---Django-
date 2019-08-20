@@ -1,1 +1,1 @@
-# Vue.js---Django-
+# Vue.js-Django
